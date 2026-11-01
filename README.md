@@ -4,8 +4,7 @@
 This project contains an interactive dashboard developed using Microsoft Power BI. It provides meaningful insights through data visualization, charts, graphs, and interactive filters.
 
 ## Dashboard Preview
-
-![Power BI Dashboard](Screenshots/dashboard-1.png)
+<img width="1376" height="772" alt="Screenshot 2026-11-01 223417" src="https://github.com/user-attachments/assets/0f958f31-a46d-4989-8345-616dde91cc74" />
 
 ## Tools and Technologies
 - Microsoft Power BI
